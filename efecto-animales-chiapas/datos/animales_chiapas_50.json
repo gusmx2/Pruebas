@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "nombre": "Jaguar",
+    "nombre_cientifico": "Panthera onca",
+    "grupo": "Mamífero",
+    "etiqueta": "Emblema de la Selva Lacandona",
+    "rasgo": "Líder silencioso. Nadie te ve venir.",
+    "archivo": "01_jaguar.png",
+    "prompt_ia_editor": "Transform the person into a jaguar, golden fur with black rosettes, rounded ears, whiskers, intense amber eyes, tropical rainforest at dusk. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 2,
+    "nombre": "Tapir (danta)",
+    "nombre_cientifico": "Tapirus bairdii",
+    "grupo": "Mamífero",
+    "etiqueta": "En peligro; su mayor refugio en México es Chiapas",
+    "rasgo": "Tranquilo, fuerte y nada te apura.",
+    "archivo": "02_tapir.png",
+    "prompt_ia_editor": "Transform the person into a Baird's tapir, dark grey short fur, long flexible snout, small round ears, jungle river background. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 3,
+    "nombre": "Mono saraguato",
+    "nombre_cientifico": "Alouatta pigra",
+    "grupo": "Mamífero",
+    "etiqueta": "El aullido de la selva",
+    "rasgo": "Se te escucha a un kilómetro.",
+    "archivo": "03_mono_saraguato.png",
+    "prompt_ia_editor": "Transform the person into a black howler monkey, thick black fur, prominent throat, expressive dark face, jungle canopy background. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 4,
+    "nombre": "Mono araña",
+    "nombre_cientifico": "Ateles geoffroyi",
+    "grupo": "Mamífero",
+    "etiqueta": "Acróbata de la Lacandona",
+    "rasgo": "Inquieto, ágil, nunca en el mismo lugar.",
+    "archivo": "04_mono_arana.png",
+    "prompt_ia_editor": "Transform the person into a spider monkey, long limbs, light brown fur with pale face mask, big curious eyes, hanging branches background. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 5,
+    "nombre": "Ocelote",
+    "nombre_cientifico": "Leopardus pardalis",
+    "grupo": "Mamífero",
+    "etiqueta": "Felino de selva y manglar",
+    "rasgo": "Elegante, discreto, de gustos finos.",
+    "archivo": "05_ocelote.png",
+    "prompt_ia_editor": "Transform the person into a ocelot, tawny fur with black stripes and spots, white muzzle, alert ears, moonlit rainforest. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 6,
+    "nombre": "Tigrillo (margay)",
+    "nombre_cientifico": "Leopardus wiedii",
+    "grupo": "Mamífero",
+    "etiqueta": "El felino que baja los árboles de cabeza",
+    "rasgo": "Curioso, nocturno, sube donde nadie sube.",
+    "archivo": "06_tigrillo.png",
+    "prompt_ia_editor": "Transform the person into a margay small wild cat, big round eyes, spotted golden fur, night jungle tree. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 7,
+    "nombre": "Puma",
+    "nombre_cientifico": "Puma concolor",
+    "grupo": "Mamífero",
+    "etiqueta": "Presente en sierras y reservas de Chiapas",
+    "rasgo": "Independiente. Marcas tu territorio sin ruido.",
+    "archivo": "07_puma.png",
+    "prompt_ia_editor": "Transform the person into a puma cougar, uniform tan fur, pale muzzle, green eyes, mountain forest background. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 8,
+    "nombre": "Jaguarundi (leoncillo)",
+    "nombre_cientifico": "Herpailurus yagouaroundi",
+    "grupo": "Mamífero",
+    "etiqueta": "El felino que parece nutria",
+    "rasgo": "Raro, versátil, imposible de encasillar.",
+    "archivo": "08_jaguarundi.png",
+    "prompt_ia_editor": "Transform the person into a jaguarundi wild cat, sleek dark grey fur, small flat head, long body, tropical scrub background. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 9,
+    "nombre": "Tepezcuintle",
+    "nombre_cientifico": "Cuniculus paca",
+    "grupo": "Mamífero",
+    "etiqueta": "El roedor más apreciado del campo chiapaneco",
+    "rasgo": "Reservado. De noche eres otra persona.",
+    "archivo": "09_tepezcuintle.png",
+    "prompt_ia_editor": "Transform the person into a paca rodent, brown fur with white spotted rows, plump body, night forest floor. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 10,
+    "nombre": "Tejón (coatí)",
+    "nombre_cientifico": "Nasua narica",
+    "grupo": "Mamífero",
+    "etiqueta": "Familias enteras en Cañón del Sumidero",
+    "rasgo": "Sociable, metiche y siempre en bola.",
+    "archivo": "10_tejon.png",
+    "prompt_ia_editor": "Transform the person into a white-nosed coati, long ringed tail, pointed white snout, brown fur, canyon forest background. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 11,
+    "nombre": "Mapache",
+    "nombre_cientifico": "Procyon lotor",
+    "grupo": "Mamífero",
+    "etiqueta": "Vecino de ríos y traspatios",
+    "rasgo": "Ingenioso. Abres cualquier cosa.",
+    "archivo": "11_mapache.png",
+    "prompt_ia_editor": "Transform the person into a raccoon, black eye mask, grey fur, ringed tail, night riverbank background. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 12,
+    "nombre": "Tlacuache",
+    "nombre_cientifico": "Didelphis marsupialis",
+    "grupo": "Mamífero",
+    "etiqueta": "El marsupial de todos los barrios",
+    "rasgo": "Sobreviviente. Te haces el muerto y sigues.",
+    "archivo": "12_tlacuache.png",
+    "prompt_ia_editor": "Transform the person into a opossum, grey fur, pointed pink nose, round dark eyes, small ears, urban backyard at night. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 13,
+    "nombre": "Armadillo",
+    "nombre_cientifico": "Dasypus novemcinctus",
+    "grupo": "Mamífero",
+    "etiqueta": "Blindado de la Depresión Central",
+    "rasgo": "Cauteloso. Traes armadura hasta para el chisme.",
+    "archivo": "13_armadillo.png",
+    "prompt_ia_editor": "Transform the person into a nine-banded armadillo, bony armored shell, pointed snout, dry tropical forest. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 14,
+    "nombre": "Venado cola blanca",
+    "nombre_cientifico": "Odocoileus virginianus",
+    "grupo": "Mamífero",
+    "etiqueta": "Símbolo del monte chiapaneco",
+    "rasgo": "Noble, alerta, corres al primer ruido.",
+    "archivo": "14_venado_cola_blanca.png",
+    "prompt_ia_editor": "Transform the person into a white-tailed deer, brown coat, large dark eyes, tall ears, misty forest meadow. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 15,
+    "nombre": "Temazate (venado cabrito)",
+    "nombre_cientifico": "Mazama temama",
+    "grupo": "Mamífero",
+    "etiqueta": "El venadito rojo de la selva",
+    "rasgo": "Tímido y pequeño, pero nadie te alcanza.",
+    "archivo": "15_temazate.png",
+    "prompt_ia_editor": "Transform the person into a red brocket deer, reddish brown coat, small spike antlers, dense green jungle. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 16,
+    "nombre": "Jabalí de collar (pecarí)",
+    "nombre_cientifico": "Dicotyles tajacu",
+    "grupo": "Mamífero",
+    "etiqueta": "Andan en manada por la Sierra Madre",
+    "rasgo": "Fuerte y de familia grande.",
+    "archivo": "16_jabali_de_collar.png",
+    "prompt_ia_editor": "Transform the person into a collared peccary, dark bristly fur, pale collar band, small tusks, tropical dry forest. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 17,
+    "nombre": "Oso hormiguero (brazo fuerte)",
+    "nombre_cientifico": "Tamandua mexicana",
+    "grupo": "Mamífero",
+    "etiqueta": "El tamandua de la selva",
+    "rasgo": "Paciente. Comes despacio y ganas.",
+    "archivo": "17_oso_hormiguero.png",
+    "prompt_ia_editor": "Transform the person into a tamandua anteater, tan fur with black vest pattern, long snout, prehensile tail, jungle tree. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 18,
+    "nombre": "Nutria de río (perro de agua)",
+    "nombre_cientifico": "Lontra longicaudis",
+    "grupo": "Mamífero",
+    "etiqueta": "Habita ríos como el Grijalva y el Lacantún",
+    "rasgo": "Juguetón. El agua es tu casa.",
+    "archivo": "18_nutria_de_rio.png",
+    "prompt_ia_editor": "Transform the person into a neotropical river otter, sleek brown wet fur, whiskers, playful expression, clear river. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 19,
+    "nombre": "Manatí",
+    "nombre_cientifico": "Trichechus manatus",
+    "grupo": "Mamífero",
+    "etiqueta": "Sobrevive en las lagunas de Catazajá",
+    "rasgo": "Sereno, gigante y buena gente.",
+    "archivo": "19_manati.png",
+    "prompt_ia_editor": "Transform the person into a manatee, grey rounded body, whiskered snout, calm eyes, freshwater lagoon with lilies. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 20,
+    "nombre": "Puercoespín tropical",
+    "nombre_cientifico": "Coendou mexicanus",
+    "grupo": "Mamífero",
+    "etiqueta": "El erizo de cola prensil de la selva",
+    "rasgo": "Espinoso solo si te provocan.",
+    "archivo": "20_puercoespin_tropical.png",
+    "prompt_ia_editor": "Transform the person into a Mexican hairy dwarf porcupine, dark spiny fur, pale nose, prehensile tail, jungle branch at night. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 21,
+    "nombre": "Cabeza de viejo (tayra)",
+    "nombre_cientifico": "Eira barbara",
+    "grupo": "Mamífero",
+    "etiqueta": "El viejo de monte",
+    "rasgo": "Rudo, rápido y sin miedo.",
+    "archivo": "21_cabeza_de_viejo.png",
+    "prompt_ia_editor": "Transform the person into a tayra, dark brown fur with pale head, long body, sharp eyes, rainforest floor. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 22,
+    "nombre": "Zorrillo",
+    "nombre_cientifico": "Conepatus leuconotus",
+    "grupo": "Mamífero",
+    "etiqueta": "Presente en todo el estado",
+    "rasgo": "Pacífico... hasta que no.",
+    "archivo": "22_zorrillo.png",
+    "prompt_ia_editor": "Transform the person into a hog-nosed skunk, black fur with white back stripe, bushy tail, dry brush at dusk. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 23,
+    "nombre": "Delfín nariz de botella",
+    "nombre_cientifico": "Tursiops truncatus",
+    "grupo": "Mamífero",
+    "etiqueta": "Costa de Chiapas: Puerto Arista y Boca del Cielo",
+    "rasgo": "Sociable, listo y siempre sonriendo.",
+    "archivo": "23_delfin_nariz_de_botella.png",
+    "prompt_ia_editor": "Transform the person into a bottlenose dolphin, grey smooth skin, friendly smile, Pacific ocean waves at sunset. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 24,
+    "nombre": "Guaqueque (cotuza)",
+    "nombre_cientifico": "Dasyprocta punctata",
+    "grupo": "Mamífero",
+    "etiqueta": "El sembrador de la selva",
+    "rasgo": "Nervioso, rápido, guardas cosas para después.",
+    "archivo": "24_guaqueque.png",
+    "prompt_ia_editor": "Transform the person into a agouti rodent, reddish brown fur, slender legs, alert posture, jungle floor. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 25,
+    "nombre": "Quetzal",
+    "nombre_cientifico": "Pharomachrus mocinno",
+    "grupo": "Ave",
+    "etiqueta": "Joya de la Reserva El Triunfo",
+    "rasgo": "Único. Te ven una vez y no te olvidan.",
+    "archivo": "25_quetzal.png",
+    "prompt_ia_editor": "Transform the person into a resplendent quetzal, iridescent emerald green plumage, crimson red chest, long tail feathers, cloud forest mist. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 26,
+    "nombre": "Pavón",
+    "nombre_cientifico": "Oreophasis derbianus",
+    "grupo": "Ave",
+    "etiqueta": "Endémico de Chiapas y Guatemala",
+    "rasgo": "Raro de verdad. Solo existes aquí.",
+    "archivo": "26_pavon.png",
+    "prompt_ia_editor": "Transform the person into a horned guan bird, black plumage with white chest, bright red horn on head, red legs, cloud forest. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 27,
+    "nombre": "Guacamaya roja",
+    "nombre_cientifico": "Ara macao",
+    "grupo": "Ave",
+    "etiqueta": "Vuelve a volar en la Lacandona",
+    "rasgo": "Ruidoso, colorido, imposible de ignorar.",
+    "archivo": "27_guacamaya_roja.png",
+    "prompt_ia_editor": "Transform the person into a scarlet macaw, red yellow and blue feathers, white face patch, strong curved beak, rainforest canopy. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 28,
+    "nombre": "Tucán real (pico canoa)",
+    "nombre_cientifico": "Ramphastos sulfuratus",
+    "grupo": "Ave",
+    "etiqueta": "Ícono de la selva chiapaneca",
+    "rasgo": "Llamas la atención sin proponértelo.",
+    "archivo": "28_tucan_real.png",
+    "prompt_ia_editor": "Transform the person into a keel-billed toucan, black body, yellow chest, huge rainbow colored beak, tropical jungle. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 29,
+    "nombre": "Tucancillo collarejo",
+    "nombre_cientifico": "Pteroglossus torquatus",
+    "grupo": "Ave",
+    "etiqueta": "El primo pequeño del tucán",
+    "rasgo": "Chico, vivo y de buen apetito.",
+    "archivo": "29_tucancillo_collarejo.png",
+    "prompt_ia_editor": "Transform the person into a collared aracari, black head, yellow belly with red band, long bicolor beak, jungle branch. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 30,
+    "nombre": "Zopilote rey",
+    "nombre_cientifico": "Sarcoramphus papa",
+    "grupo": "Ave",
+    "etiqueta": "El rey de los cielos de la selva",
+    "rasgo": "Imponente. Nadie te discute el lugar.",
+    "archivo": "30_zopilote_rey.png",
+    "prompt_ia_editor": "Transform the person into a king vulture, white body, black wings, bare multicolored orange head, blue sky over jungle. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 31,
+    "nombre": "Águila elegante",
+    "nombre_cientifico": "Spizaetus ornatus",
+    "grupo": "Ave",
+    "etiqueta": "Rapaz de las selvas de Chiapas",
+    "rasgo": "Precisión pura. No fallas.",
+    "archivo": "31_aguila_elegante.png",
+    "prompt_ia_editor": "Transform the person into a ornate hawk-eagle, black crest, chestnut neck, barred white chest, piercing eyes, forest sky. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 32,
+    "nombre": "Chachalaca",
+    "nombre_cientifico": "Ortalis vetula",
+    "grupo": "Ave",
+    "etiqueta": "Despertador oficial del monte",
+    "rasgo": "Hablas mucho, y temprano.",
+    "archivo": "32_chachalaca.png",
+    "prompt_ia_editor": "Transform the person into a plain chachalaca bird, brownish olive plumage, long tail, small head, tropical scrub at dawn. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 33,
+    "nombre": "Colibrí",
+    "nombre_cientifico": "Amazilia spp.",
+    "grupo": "Ave",
+    "etiqueta": "Decenas de especies en Chiapas",
+    "rasgo": "Intenso, veloz y dulce.",
+    "archivo": "33_colibri.png",
+    "prompt_ia_editor": "Transform the person into a hummingbird, iridescent green feathers, tiny body, long beak, tropical flowers. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 34,
+    "nombre": "Loro frente blanca",
+    "nombre_cientifico": "Amazona albifrons",
+    "grupo": "Ave",
+    "etiqueta": "Común en toda la Frailesca y la costa",
+    "rasgo": "Sociable. Repites lo que oyes.",
+    "archivo": "34_loro_frente_blanca.png",
+    "prompt_ia_editor": "Transform the person into a white-fronted amazon parrot, green feathers, white forehead, red eye patch, blue crown, jungle. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 35,
+    "nombre": "Búho cornudo",
+    "nombre_cientifico": "Bubo virginianus",
+    "grupo": "Ave",
+    "etiqueta": "Cazador nocturno de sierras y valles",
+    "rasgo": "Sabio, serio y nocturno.",
+    "archivo": "35_buho_cornudo.png",
+    "prompt_ia_editor": "Transform the person into a great horned owl, ear tufts, big yellow eyes, mottled brown feathers, moonlit night. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 36,
+    "nombre": "Pelícano pardo",
+    "nombre_cientifico": "Pelecanus occidentalis",
+    "grupo": "Ave",
+    "etiqueta": "Vuela en fila por Puerto Arista",
+    "rasgo": "Paciente. Esperas y luego caes con todo.",
+    "archivo": "36_pelicano_pardo.png",
+    "prompt_ia_editor": "Transform the person into a brown pelican, large pouch beak, grey brown feathers, Pacific beach at sunset. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 37,
+    "nombre": "Espátula rosada",
+    "nombre_cientifico": "Platalea ajaja",
+    "grupo": "Ave",
+    "etiqueta": "Rosa de La Encrucijada",
+    "rasgo": "Raro, rosa y elegante.",
+    "archivo": "37_espatula_rosada.png",
+    "prompt_ia_editor": "Transform the person into a roseate spoonbill, bright pink plumage, flat spoon shaped beak, mangrove lagoon. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 38,
+    "nombre": "Momoto (pájaro reloj)",
+    "nombre_cientifico": "Momotus lessonii",
+    "grupo": "Ave",
+    "etiqueta": "Mueve la cola como péndulo",
+    "rasgo": "Tranquilo, con tu propio ritmo.",
+    "archivo": "38_momoto.png",
+    "prompt_ia_editor": "Transform the person into a lesson's motmot bird, turquoise and green plumage, black mask, racket tail, shaded jungle. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 39,
+    "nombre": "Carpintero",
+    "nombre_cientifico": "Melanerpes aurifrons",
+    "grupo": "Ave",
+    "etiqueta": "Se oye en cada parque de Tuxtla",
+    "rasgo": "Insistente. Tocas hasta que abren.",
+    "archivo": "39_carpintero.png",
+    "prompt_ia_editor": "Transform the person into a golden-fronted woodpecker, black and white barred back, red crown, tree trunk. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 40,
+    "nombre": "Zanate",
+    "nombre_cientifico": "Quiscalus mexicanus",
+    "grupo": "Ave",
+    "etiqueta": "Dueño del centro de Tuxtla",
+    "rasgo": "Urbano, escandaloso y sobreviviente.",
+    "archivo": "40_zanate.png",
+    "prompt_ia_editor": "Transform the person into a great-tailed grackle, glossy black iridescent feathers, long tail, yellow eyes, city plaza background. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 41,
+    "nombre": "Cocodrilo americano",
+    "nombre_cientifico": "Crocodylus acutus",
+    "grupo": "Reptil",
+    "etiqueta": "Manglares de La Encrucijada y Cañón del Sumidero",
+    "rasgo": "Paciente y viejo. Sabes esperar.",
+    "archivo": "41_cocodrilo_americano.png",
+    "prompt_ia_editor": "Transform the person into a American crocodile, scaly olive green skin, long jaws, sharp teeth, mangrove river. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 42,
+    "nombre": "Iguana verde",
+    "nombre_cientifico": "Iguana iguana",
+    "grupo": "Reptil",
+    "etiqueta": "Asoleándose en cada ceiba",
+    "rasgo": "Relajado. El sol es tu agenda.",
+    "archivo": "42_iguana_verde.png",
+    "prompt_ia_editor": "Transform the person into a green iguana, green scaly skin, spiky crest, dewlap, sunny tropical tree. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 43,
+    "nombre": "Garrobo (iguana negra)",
+    "nombre_cientifico": "Ctenosaura similis",
+    "grupo": "Reptil",
+    "etiqueta": "Corre en las playas de la costa",
+    "rasgo": "Rápido y territorial.",
+    "archivo": "43_garrobo.png",
+    "prompt_ia_editor": "Transform the person into a black spiny-tailed iguana, grey black scales, spiky tail, rocky coast in the sun. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 44,
+    "nombre": "Tortuga golfina",
+    "nombre_cientifico": "Lepidochelys olivacea",
+    "grupo": "Reptil",
+    "etiqueta": "Anida en Puerto Arista",
+    "rasgo": "Constante. Vas lento, pero llegas siempre.",
+    "archivo": "44_tortuga_golfina.png",
+    "prompt_ia_editor": "Transform the person into a olive ridley sea turtle, olive shell, gentle eyes, sandy Pacific beach at night. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 45,
+    "nombre": "Nauyaca",
+    "nombre_cientifico": "Bothrops asper",
+    "grupo": "Reptil",
+    "etiqueta": "La serpiente más temida de Chiapas",
+    "rasgo": "Mejor no te hagan enojar.",
+    "archivo": "45_nauyaca.png",
+    "prompt_ia_editor": "Transform the person into a fer-de-lance viper, brown diamond patterned scales, triangular head, jungle leaf litter. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 46,
+    "nombre": "Basilisco (pasarríos)",
+    "nombre_cientifico": "Basiliscus vittatus",
+    "grupo": "Reptil",
+    "etiqueta": "Corre sobre el agua",
+    "rasgo": "Ligero. Corres sobre cualquier problema.",
+    "archivo": "46_basilisco.png",
+    "prompt_ia_editor": "Transform the person into a brown basilisk lizard, crest on head, long toes, running on river water. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 47,
+    "nombre": "Rana de ojos rojos",
+    "nombre_cientifico": "Agalychnis callidryas",
+    "grupo": "Anfibio",
+    "etiqueta": "Estrella de la Selva Lacandona",
+    "rasgo": "Chiquito, brillante y sorprendes a todos.",
+    "archivo": "47_rana_de_ojos_rojos.png",
+    "prompt_ia_editor": "Transform the person into a red-eyed tree frog, bright green skin, huge red eyes, orange feet, jungle leaf at night. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 48,
+    "nombre": "Pejelagarto",
+    "nombre_cientifico": "Atractosteus tropicus",
+    "grupo": "Pez",
+    "etiqueta": "Pez prehistórico de ríos y lagunas",
+    "rasgo": "Antiguo. Ya lo viste todo.",
+    "archivo": "48_pejelagarto.png",
+    "prompt_ia_editor": "Transform the person into a tropical gar fish, elongated body, long snout with teeth, armored scales, murky river. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 49,
+    "nombre": "Mariposa morfo azul",
+    "nombre_cientifico": "Morpho helenor",
+    "grupo": "Insecto",
+    "etiqueta": "Azul eléctrico en la selva",
+    "rasgo": "Deslumbras y desapareces.",
+    "archivo": "49_mariposa_morfo_azul.png",
+    "prompt_ia_editor": "Transform the person into a blue morpho butterfly, iridescent electric blue wings, black edges, sunlit jungle clearing. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  },
+  {
+    "id": 50,
+    "nombre": "Abeja melipona",
+    "nombre_cientifico": "Melipona beecheii",
+    "grupo": "Insecto",
+    "etiqueta": "La abeja sin aguijón de la tradición maya",
+    "rasgo": "Trabajador, dulce y sin aguijón.",
+    "archivo": "50_abeja_melipona.png",
+    "prompt_ia_editor": "Transform the person into a stingless melipona bee, golden fuzzy body, tropical flowers and hollow log hive. Keep the person's face position, expression and pose recognizable, photorealistic, cinematic lighting, Chiapas, Mexico."
+  }
+]
